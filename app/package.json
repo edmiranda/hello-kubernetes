@@ -2,7 +2,7 @@
   "name": "hello-kubernetes",
   "version": "1.10.1",
   "description": "Hello Kubernetes!",
-  "author": "Paul Bouwer",
+  "author": "Eduardo Miranda",
   "license": "MIT",
   "main": "server.js",
   "scripts": {
